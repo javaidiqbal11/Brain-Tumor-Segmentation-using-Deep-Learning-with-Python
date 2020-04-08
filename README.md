@@ -1,4 +1,4 @@
-# Fully automatic Brain tumor segmentation
+# Brain Tumor Segmentation using Deep Learning with Python
 
 ### Brief overview
 
